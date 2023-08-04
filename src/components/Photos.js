@@ -2,6 +2,6 @@ import styles from "./Photos.module.css";
 
 export default function RecipePhoto() {
     return(
-        <img src="valid URL to recipe photo" alt="recipe photo" className = {styles.imageUpdates} />
+        <img src="valid URL to recipe photo" alt="head of the chef" className = {styles.imageUpdates} />
     )
 }
